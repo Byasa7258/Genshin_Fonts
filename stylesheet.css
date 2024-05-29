@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'FZLanTingHei-B-GBK';
+    src: url('FZLTCHK--GBK1-0.woff2') format('woff2'),
+        url('FZLTCHK--GBK1-0.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FZLanTingHei-B-GBK';
+    src: url('FZLTCHK--GBK1-0.woff2') format('woff2'),
+        url('FZLTCHK--GBK1-0.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Default_SC';
+    src: url('Default_SC-85W.woff2') format('woff2'),
+        url('Default_SC-85W.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HYWenHei-85W';
+    src: url('HYWenHei-HEW.woff2') format('woff2'),
+        url('HYWenHei-HEW.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Default_SC';
+    src: url('Default_SC-85W.woff2') format('woff2'),
+        url('Default_SC-85W.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HYWenHei-85W';
+    src: url('HYWenHei-HEW.woff2') format('woff2'),
+        url('HYWenHei-HEW.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GS Enochian';
+    src: url('GSEnochian.woff2') format('woff2'),
+        url('GSEnochian.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Default_SC';
+    src: url('Default_JP-85W.woff2') format('woff2'),
+        url('Default_JP-85W.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GS Enochian';
+    src: url('GSEnochian.woff2') format('woff2'),
+        url('GSEnochian.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Default_SC';
+    src: url('Default_JP-85W.woff2') format('woff2'),
+        url('Default_JP-85W.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Number';
+    src: url('Number.woff2') format('woff2'),
+        url('Number.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Number';
+    src: url('Number.woff2') format('woff2'),
+        url('Number.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'teyvat';
+    src: url('teyvat.woff2') format('woff2'),
+        url('teyvat.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'teyvat';
+    src: url('teyvat.woff2') format('woff2'),
+        url('teyvat.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
