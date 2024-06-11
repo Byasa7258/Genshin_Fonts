@@ -1,144 +1,63 @@
 @font-face {
-    font-family: 'Genshin Impact DRIP FONT';
-    src: url('GenshinImpactDRIPFONT.woff2') format('woff2'),
-        url('GenshinImpactDRIPFONT.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'JiangChengXieSong 100W';
+    src: url('JiangChengXieSong-100W.woff2') format('woff2'),
+        url('JiangChengXieSong-100W.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Genshin Impact DRIP FONT';
-    src: url('GenshinImpactDRIPFONT.woff2') format('woff2'),
-        url('GenshinImpactDRIPFONT.woff') format('woff');
+    font-family: 'JiangChengXieSong 200W';
+    src: url('JiangChengXieSong-200W.woff2') format('woff2'),
+        url('JiangChengXieSong-200W.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'FZLanTingHei-B-GBK';
-    src: url('FZLTCHK--GBK1-0.woff2') format('woff2'),
-        url('FZLTCHK--GBK1-0.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'JiangChengXieSong 300W';
+    src: url('JiangChengXieSong-300W.woff2') format('woff2'),
+        url('JiangChengXieSong-300W.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'FZLanTingHei-B-GBK';
-    src: url('FZLTCHK--GBK1-0.woff2') format('woff2'),
-        url('FZLTCHK--GBK1-0.woff') format('woff');
+    font-family: 'JiangChengXieSong 400W';
+    src: url('JiangChengXieSong-400W.woff2') format('woff2'),
+        url('JiangChengXieSong-400W.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Default_SC';
-    src: url('Default_SC-85W.woff2') format('woff2'),
-        url('Default_SC-85W.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'JiangChengXieSong 500W';
+    src: url('JiangChengXieSong-500W.woff2') format('woff2'),
+        url('JiangChengXieSong-500W.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'HYWenHei-85W';
-    src: url('HYWenHei-HEW.woff2') format('woff2'),
-        url('HYWenHei-HEW.woff') format('woff');
+    font-family: 'JiangChengXieSong 700W';
+    src: url('JiangChengXieSong-700W.woff2') format('woff2'),
+        url('JiangChengXieSong-700W.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JiangChengXieSong 900W';
+    src: url('JiangChengXieSong-900W.woff2') format('woff2'),
+        url('JiangChengXieSong-900W.woff') format('woff');
     font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Default_SC';
-    src: url('Default_SC-85W.woff2') format('woff2'),
-        url('Default_SC-85W.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'HYWenHei-85W';
-    src: url('HYWenHei-HEW.woff2') format('woff2'),
-        url('HYWenHei-HEW.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Default_SC';
-    src: url('Default_JP-85W.woff2') format('woff2'),
-        url('Default_JP-85W.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'GS Enochian';
-    src: url('GSEnochian.woff2') format('woff2'),
-        url('GSEnochian.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'GS Enochian';
-    src: url('GSEnochian.woff2') format('woff2'),
-        url('GSEnochian.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Number';
-    src: url('Number.woff2') format('woff2'),
-        url('Number.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'teyvat';
-    src: url('teyvat.woff2') format('woff2'),
-        url('teyvat.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Default_SC';
-    src: url('Default_JP-85W.woff2') format('woff2'),
-        url('Default_JP-85W.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Number';
-    src: url('Number.woff2') format('woff2'),
-        url('Number.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'teyvat';
-    src: url('teyvat.woff2') format('woff2'),
-        url('teyvat.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-style: italic;
     font-display: swap;
 }
 
